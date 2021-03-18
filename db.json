@@ -1,0 +1,11 @@
+{
+"supra":[
+{"id":1,"type":"Supra","img":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/2020_Toyota_GR_Supra_%28United_States%29.png/420px-2020_Toyota_GR_Supra_%28United_States%29.png","info":"The Toyota Supra is a sports car and grand tourer manufactured by Toyota Motor Corporation beginning in 1978. The name supra is derived from the Latin prefix, meaning above, to surpass or go beyond. The initial four generations of the Supra were produced from 1978 to 2002. The fifth generation has been produced since March 2019 and went on sale in May 2019. The styling of the original Supra was derived from the Toyota Celica, but it was both longer and wider. Starting in mid-1986, the A70 Supra became a separate model from the Celica. In turn, Toyota also stopped using the prefix Celica and named the car Supra."}
+],
+"cruiser":[
+{"id":1,"type":"Cruiser","img":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/2017_Toyota_Land_Cruiser_%28VDJ200R%29_GX_wagon_%282018-10-01%29_01.jpg/420px-2017_Toyota_Land_Cruiser_%28VDJ200R%29_GX_wagon_%282018-10-01%29_01.jpg","info":"The Toyota Land Cruiser is a series of four-wheel drive vehicles produced by the Japanese automobile manufacturer Toyota. It is Toyota's longest running series of models and the second longest-running SUV in production behind the Chevrolet Suburban. As of 2019, the sales of the Land Cruiser totalled more than 10 million units worldwide."}
+],
+"camry":[
+{"id":1,"type":"Camry","img":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/2018_Toyota_Camry_%28ASV70R%29_Ascent_sedan_%282018-08-27%29_01.jpg/420px-2018_Toyota_Camry_%28ASV70R%29_Ascent_sedan_%282018-08-27%29_01.jpg","info":"The Toyota Camry is an automobile sold internationally by the Japanese manufacturer Toyota since 1982, spanning multiple generations. Originally compact in size (narrow-body), later Camry models have grown to fit the mid-size classification (wide-body)—although the two sizes co-existed in the 1990s. Since the release of the wide-bodied versions, Camry has been extolled by Toyota as the firm's second world car after the Corolla."}
+]
+}
